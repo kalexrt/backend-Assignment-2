@@ -1,4 +1,4 @@
-import Services from "../service";
+import * as Services from "../service/task";
 import { Request, Response } from "express";
 
 //get all tasks
